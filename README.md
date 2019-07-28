@@ -2,7 +2,7 @@
  Data Science Project for Learning. 
  Using python languange and written in python notebook.
 
-## [Iris Dataset](https://github.com/agusrichard/data-science-learning-projects/tree/master/machine-learning-project-iris)
+## [Iris: Classification Problem](https://github.com/agusrichard/data-science-learning-projects/tree/master/machine-learning-project-iris)
 
 Contents:
 - [Exploratory Analysis](https://github.com/agusrichard/data-science-learning-projects/blob/master/machine-learning-project-iris/data-exploration-iris-dataset.ipynb): Explore the data using descriptive statistics and data visualization.
