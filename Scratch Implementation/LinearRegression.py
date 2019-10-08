@@ -51,9 +51,19 @@ class LinearRegressionVersion2(BaseEstimator):
 
 	Parameters: 
 	----------
-
 	
+	sample_size : float (0-1), default=0.05
+		Specify the percentage of data points in each iteration
 
+	n_iter : integer, default=500
+		The number of iterations
+
+	replace : boolean, default=True
+		Using boostrap if True, False otherwise
+
+	random_state : number
+		Seed for random number generator
+	
 	Attributes:
 	----------
 	
