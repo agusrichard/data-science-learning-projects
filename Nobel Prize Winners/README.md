@@ -15,3 +15,6 @@ Sections:
     * diff_birth_death_country
     * birth_date
     * death_date
+   
+   
+Go to [Exploratory Data Analysis](https://github.com/agusrichard/data-science-projects/blob/master/Nobel%20Prize%20Winners/exploratory_data_analysis.ipynb "EDA") for the detail.
