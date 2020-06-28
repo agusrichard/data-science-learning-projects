@@ -1,24 +1,22 @@
 # data-science-projects
- Data Science Project for Learning. 
+ Data Science Project for Learning and Portfolio. 
  Using python languange and written in python notebook.
  
-## [Building Machine Learning Algorithms from Scratch](https://github.com/agusrichard/data-science-learning-projects/tree/master/Scratch%20Implementation)
 
-To better understand machine learning, we have to know what kind of process happens under the hood of machine learning algorithms. In here, I try to implement the algorithm myself, to better understand the method some machine learning algorithms use and get some coding experience.
+## [20 News Groups](https://github.com/agusrichard/data-science-projects/tree/master/News%20Groups)
 
-Contents: 
-- train_test_split implementation
+In this project, I perform predictive modeling using a bunch of machine learning algorithms, which starts with data cleaning and preliminary step. The accuracy score for this project is 81%, without using NLP preprocessing step. So it still can be improved.
 
+Contents:
+- [Predictive Modeling](https://github.com/agusrichard/data-science-projects/blob/master/News%20Groups/20_newsgroups.ipynb)
+ 
 
-## [Data Science Cheat Sheet](https://github.com/agusrichard/data-science-learning-projects/tree/master/Cheat%20Sheet)
+## [Nobel Prize Winners](https://github.com/agusrichard/data-science-projects/tree/master/Nobel%20Prize%20Winners)
 
-This cheat sheet is made by composing several learning notes from different data science and machine learning books. The purposes are for notes and refreshers when forgetting something.
+This project is an exploratory data analysis. In here, I ask several questions that can be answered by looking and analyzing the data. Such as, which country contributes the most for Nobel Laureates, and what is the shape of Nobel Laureates' age distribution, and many more.
 
-Contents: 
-- [Scikit-learn](https://github.com/agusrichard/data-science-learning-projects/blob/master/Cheat%20Sheet/scikit-cheat-sheet.ipynb)
-- [Pandas](https://github.com/agusrichard/data-science-learning-projects/blob/master/Cheat%20Sheet/pandas-cheat-sheet.ipynb)
-- [Numpy](https://github.com/agusrichard/data-science-learning-projects/blob/master/Cheat%20Sheet/numpy-cheat-sheet.ipynb)
-- [Matplotlib and Seaborn](https://github.com/agusrichard/data-science-learning-projects/blob/master/Cheat%20Sheet/matploltib-searbon-cheat-sheet.ipynb)
+Contents:
+- [Exploratory Data Analysis](https://github.com/agusrichard/data-science-projects/blob/master/Nobel%20Prize%20Winners/exploratory_data_analysis.ipynb)
 
 
 ## [Roosevelt National Forest: Tree Type Classification](https://github.com/agusrichard/data-science-learning-projects/tree/master/Roosevelt%20National%20Forest%20Tree%20Classification)
