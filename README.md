@@ -1,6 +1,6 @@
 # data-science-projects
- Data Science Project for Learning and Portfolio. 
- Using python languange and written in python notebook.
+ Data Science Project for Learning and Personal Portfolio. 
+ Using Python language and written in Python Notebook.
  
 
 ## [20 News Groups](https://github.com/agusrichard/data-science-projects/tree/master/News%20Groups)
